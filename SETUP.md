@@ -67,3 +67,54 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+
+# Directory
+
+```
+C:.
+│  .editorconfig
+│  .eslintrc.js
+│  .gitignore
+│  nuxt.config.js
+│  package-lock.json
+│  package.json
+│  README.md
+│  SETUP.md
+│  tsconfig.json
+│  vue-shim.d.ts
+│
+├─.github
+│  └─workflows
+│          ci.yml
+│
+├─.nuxt
+│
+├─assets
+│      variables.scss
+│
+├─components
+│      Card.vue
+│      NuxtLogo.vue
+│      Tutorial.vue
+│      VuetifyLogo.vue
+│
+├─layouts
+│      default.vue
+│      error.vue
+│
+├─node_modules
+│
+│
+├─pages
+│      index.vue
+│      inspire.vue
+│
+├─static
+│      favicon.ico
+│      v.png
+│      vuetify-logo.svg
+│
+└─store
+        README.md
+```
