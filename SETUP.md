@@ -95,6 +95,8 @@ C:.
 │
 ├─components
 │      Card.vue
+│      Contact.vue
+│      GitHubRepo.vue
 │      NuxtLogo.vue
 │      Tutorial.vue
 │      VuetifyLogo.vue
